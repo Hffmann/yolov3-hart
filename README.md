@@ -50,7 +50,7 @@ Code implementation of the work "Real-time adaptive object detection and trackin
      - Opt. Download the video input from https://drive.google.com/file/d/1enfe_tcHLkAJGL0Y-PPNw4Hb6FYg8_om/view?usp=sharing and put it in the video_input folder
 
 <p align="center">
-    <img width="100%" src="\images\model.png" style="max-width:100%;">
+    <img width="50%" src="https://github.com/Hffmann/yolov3-hart/blob/main/images/model.png" style="max-width:100%;">
     </a>
 </p>
 
